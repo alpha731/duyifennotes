@@ -1,0 +1,26 @@
+languageCode = "zh-cn"
+languageName = "CN"
+displayName = "简体中文"
+isoCode = "zh-CN"
+weight = 1
+rtl = false
+
+title = "杜一份笔记"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params]
+  # mainSections = ["section1", "section2"]
+
+[author]
+name = "杜 利强"
+image = "img/author.jpg"
+  # headline = "I'm only human"
+bio = ""
+links = [
+  { email = "mailto:liqiang.du@outlook.com" },
+  { github = "https://github.com/alpha731" },
+  { twitter = "https://twitter.com/Duliqiang" },
+]
